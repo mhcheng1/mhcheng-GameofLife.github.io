@@ -2,7 +2,7 @@
 var canvas = document.querySelector('canvas');
 var c = canvas.getContext('2d');
 
-let res = 5;
+let res = 15;
 let width = 60;
 let height = 60;
 
