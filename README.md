@@ -13,8 +13,9 @@ It follows the rules below and evolve constantly: <br>
 
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 
-4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction. <br>
 
-<br>
-## Demo  <br><br>
+
+## Demo
+<br><br>
 <a href="https://mhcheng1.github.io/mhcheng-GameofLife.github.io/"> <img src= "https://media.giphy.com/media/PMBlVzGOkl78fHJY5i/giphy.gif" width=500>
